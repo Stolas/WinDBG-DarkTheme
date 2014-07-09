@@ -1,0 +1,6 @@
+In order to install just run dark_theme.reg and it will overwrite the default in the registery.
+For changes you'll have to export the key and overwrite the file.
+
+Have fun.
+Note, https://github.com/gynophage/solarized_ida is about the same dark theme for IDA.
+
